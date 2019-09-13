@@ -64,8 +64,8 @@ div.wrapper h1, div.wrapper h2, div.wrapper h3, div.wrapper h4, div.wrapper h5, 
 .wrapper #intro li.last{margin:0;}
 #intro h1, #intro h2, #intro p, #intro ul{margin:0; padding:0; list-style:none; line-height:normal; border:none;}
 #intro .fl_left{display:block; float:left; width:480px;}
-#intro .fl_left h1{margin-bottom:20px; font-size:42px; color:#CBCFB5; background:#362C20; border:none;}
-#intro .fl_left h2{margin:0 0 10px 0; padding:0 0 8px 0; color:#FFFFFF; background:#362C20; border-bottom:1px dotted #666666;}
+#intro .fl_left h1{margin-bottom:20px; font-size:42px; color:#CBCFB5; background:#0000ff; border:none;}
+#intro .fl_left h2{margin:0 0 10px 0; padding:0 0 8px 0; color:#FFFFFF; background:#0000ff; border-bottom:1px dotted #666666;}
 #intro .fl_left li{display:block; float:left; width:220px; margin:0 25px 0 0;}
 #intro .fl_left p{margin-bottom:10px; line-height:1.3em;}
 #intro .fl_left p.readmore{display:block; margin:25px 0 0 0; text-align:right; line-height:normal;}
